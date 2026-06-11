@@ -37,6 +37,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [TryHackMe](https://tryhackme.com/) – Beginner-friendly cybersecurity learning platform with gamified challenges.
 - [Open Security Training](http://opensecuritytraining.info/) – In-depth free security training courses.
 - [Blue Team Labs Online](https://blueteamlabs.online/) – Interactive blue team labs and simulations.
+- [MagicRills](https://magicrills.com) – 🎓 **110+ FREE AI tools for educators** | Lesson planner | Quiz generator | Urdu worksheets | ECCE activities | Kids games | School admin tools | No signup, no credit card required.
+
 
 ## Threat Intelligence
 
